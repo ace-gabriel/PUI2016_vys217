@@ -5,7 +5,7 @@
 
 ### Assignment 1 and Assignment 2  
 
-Assignment 1 was completed on my own. I forked Priyanshi's Repo(priyanshi09) 'gittest_ps3369' for Assignment 1 and contributed to her repo. 
+Assignment 1 was completed on my own. I forked Priyanshi's Repo(priyanshi09), Aaron's, Pooneh's Repo for Assignment 1 and contributed to their repos. 
 In Assignment 2, Jonathan Pichot helped me with the space issue while declaring the export variable in .bashrc file. 
 
 ### Assignment 3
