@@ -2,12 +2,13 @@
 
 # Assignment 1
 ## In this assignment, Dongjhe Fan and Wan Yao explained me the concepts of PDF and CDF. 
-## In this assignment, I plotted the histogram for the age distribution. Then used the KS and AD tests to find the goodness of fit test with the normal, Rayleigh and exponential distribut
+## In this assignment, I plotted the histogram for the age distribution. Then used the KS and AD tests for the goodness of fit test with the normal, Rayleigh and exponential distributions
 
 # Assignment 2
 ## I completed the assignment by my own. In this assignment, I cleaned the data(changing the object to float, removing NaN's, etc), then plotted the scatter matrix. Fitted a regression line through the total median income data for different races. Also fitted a line using analytical soln, compared the R^2's of the different lines. Afterwards, considered all the median incomes for all races to fit the regression line. Understood the concept of high leverage and high influence points.(I hope, what I understood is correct!!), I did understand that p-value can be calculated to find the high influential points, but not sure how to do it. Predicted the stipend of females whan we know the stipend of a corresponding male, using the linear regression model. At the end, provided some insights about how the data can be used to analyse the income by different races.
 
 # Assignment 3
+## Did the assignment individually and then discussed with my group and made changhes accordingly
 
 # Do diets help lose more fat than the exercise?
 ## Experimental setup:  you have a test and a control sample.
