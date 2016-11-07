@@ -14,9 +14,15 @@ Hi Avikal, Great work with the plots!
 
 # Comments: 
 1) The Y-lable and title are overlapping in graph 1, which can be avoided.
+
 2) The title and labels are easy to read and understand, you have mentioned the units which helps.
+
 3) In graph 1, for the colour map, I would suggest a Monochrome as you have done in graph 2 and 3, which would help in better understanding the temperature varaitions.
+
 4)The captions of the figures, explain the graphs well.
+
 5)Good job using the color blind friendly color scheme
+
 6)The timeseries graph caption can be more explantory
+
 7)The graphs represent the data well.
