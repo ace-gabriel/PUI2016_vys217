@@ -12,5 +12,5 @@ Most of my work was done individually and I assisted my collaborators with their
 
 I helped Aaron with the programming in this assignment. I also proofread the Authorea paper with was majorly written by Achilles Saxby.
 
-The paper can be found on https://www.authorea.com/users/106123/articles/133483/_show_article
+The paper can be found on https://www.authorea.com/users/106123/articles/133483/_show_article 
 
