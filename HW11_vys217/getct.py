@@ -2,7 +2,7 @@ import os
 
 def getct():
     '''The function downloads a shape file into the PUIDATA directory from the NYC Open data
-    Author: vys217 lifting code from 
+    Author: vys217 referring code from 
     https://github.com/fedhere/PUI2016_fb55/blob/master/HW3_fb55/citibikes_gender.ipynb
     '''
     # First I will check that required folder is already in PUIdata or not
