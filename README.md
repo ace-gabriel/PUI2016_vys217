@@ -1,6 +1,8 @@
 # PUI2016
 
-This repository contains the Homework directories for PUI class 2016. 
+This repository contains the Homework directories for PUI class 2016.
+
+The hw question can be found here in the HWX repos. https://github.com/fedhere/PUI2016_fb55
 
 ### HW 1
 Setting up GitHub, Using Unix enviornment variable, alias, PEP8 and style standards, using jupyter notebook
