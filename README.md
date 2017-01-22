@@ -2,7 +2,7 @@
 
 This repository contains the Homework directories for PUI class 2016.
 
-The hw question can be found here in the HWX repos. https://github.com/fedhere/PUI2016_fb55
+The hw questions can be found here in the HWX repos. https://github.com/fedhere/PUI2016_fb55
 
 ### HW 1
 Setting up GitHub, Using Unix enviornment variable, alias, PEP8 and style standards, using jupyter notebook
@@ -46,6 +46,6 @@ Investigation of citibike ridership with income
 Objective: relate the citibike ridership to income.
 
 ### Final
-Identify specific socioechonomic changes in NYC over 10 years.
+Identify specific socio-echonomic changes in NYC over 10 years.
 
 
